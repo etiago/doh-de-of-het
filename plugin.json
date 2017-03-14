@@ -1,0 +1,12 @@
+{
+  "ID":"8582c1d6fe3c11e6bc6492361f002672",   
+  "ActionKeyword":"doh",                     
+  "Name":"Doh! - De of Het",                              
+  "Description":"Often when trying to write Dutch, I ask myself: does this noun use a de or a het? This plugin makes use of welklidwoord.nl to give you the answer, right in Wox!",    
+  "Author":"etiago",                     
+  "Version":"1.0.0",                         
+  "Language":"python",                       
+  "Website":"http://www.tiagoespinha.net",         
+  "IcoPath": "Images\\doh.gif",              
+  "ExecuteFileName":"de-of-het.py"   
+}
